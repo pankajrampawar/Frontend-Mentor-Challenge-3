@@ -110,6 +110,10 @@ button {
     font-family: montserrat;
 }
 
+button:hover {
+    background-color:hsl(158, 35%, 21%) ;
+}
+
 @media screen and (max-width: 600px) {
     .card {
         flex-direction: column;
