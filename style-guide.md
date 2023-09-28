@@ -14,7 +14,7 @@ The designs were created to the following widths:
 - Dark cyan: hsl(158, 36%, 37%)
 - Cream: hsl(30, 38%, 92%)
 
-### Neutral
+### Neut
 
 - Very dark blue: hsl(212, 21%, 14%)
 - Dark grayish blue: hsl(228, 12%, 48%)
